@@ -2,7 +2,7 @@
 
 Hi Everyone! 
 
-In this section, we are going to start doing some back-end stuff! First of all, we will see what is Node.js and what we can do with it!
+In this section, we are going to start doing completely backend stuff. We have already seen how express.js works and how we can comunicate with it. Via HTTP of course 😊 So now it is time to go deeper and learn what did we do so far. So there is not many new things to learn, but still a lot to do 💪🏻 
 
 ### Sunday Session
 
